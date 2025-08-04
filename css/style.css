@@ -66,11 +66,6 @@
     }
 }
 
-:root {
-    --background: rgb(26, 36, 48);
-    --primary: #FFCB9B;
-    --secondary: white;
-}
 
 body {
     background: linear-gradient(135deg, #000000 0%, #000000 100%);
