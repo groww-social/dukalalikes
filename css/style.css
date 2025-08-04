@@ -1,3 +1,8 @@
+ :root {
+    --background: rgb(26, 36, 48);
+    --primary: white;
+    --secondary: #f5f5f5;
+}
    * {
     font-family: 'Tajawal', sans-serif;
     margin: 0;
@@ -577,4 +582,4 @@ a {
     .services-grid {
         grid-template-columns: 1fr;
     }
-      }
+  }
